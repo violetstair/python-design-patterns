@@ -1,11 +1,8 @@
 # Learning python design patterns
 
 ## 1. 싱글톤 디자인 패턴
-* 모듈 싱글톤
-* 모노스테이트 싱글톤 패턴
-* 싱글톤과 메타클래스
-* 싱글톤 패턴 사용 사례 1
-* 싱글톤 패턴 사용 사례 2
+* [싱글톤 패턴](./2_1_singleton.py)
+* [게으른 초기화](2_2_lazy_initialization.py)
 
 ## 2. 팩토리 패턴
 * [심플 팩토리 패턴](./3_1_simple_factory.py)
