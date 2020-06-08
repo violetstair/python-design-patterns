@@ -42,15 +42,20 @@
 * [옵서버 패턴](chapter6/1_observer_pattern.py)
 * [옵서버 패턴 사용 사례](chapter6/2_observer_pattern.py)
 
-## 7. 커맨드 패턴
-* 커맨드 패턴
+## 7. 커맨드 패턴 - 요청 패턴화
+* [커맨드 패턴](chapter7/1_command_pattern.py)
+* [커맨드 패턴](chapter7/2_command_pattern.py)
+* [커맨트 패턴 사용 사례](chapter7/3_command_pattern.py)
 
-## 8. 템플릿 메소드 패턴
-* 템플릿 메소드 패턴
+## 8. 템플릿 메소드 패턴 - 알고리즘의 캡슐화
+* [템플릿 메소드 패턴](chapter8/1_template_method.py)
+* [템플릿 메소드 패턴](chapter8/2_template_method.py)
+* [템플릿 메소드 패턴 사례](chapter8/3_template_method.py)
 
-## 9. 모델 뷰 컨트롤러 컴파운드 패턴
-* 컴파운드 패턴
-* 모델 뷰 컨트롤러 패턴
+## 9. 모델-뷰 컨트롤러 - 컴파운드 패턴
+* [모델 뷰 컨트롤러 패턴](chapter9/1_mvc_pattern.py)
+* [모델 뷰 컨트롤러 패턴](chapter9/2_mvc_pattern.py)
+* [모델 뷰 컨트롤러 패턴 사용 사례](chapter9/mvc_pattern/web_app.py)
 
 ## 10. 상태 디자인 패턴
 * 상태 디자인 패턴
