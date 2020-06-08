@@ -3,6 +3,10 @@
 ## 1. 싱글톤 디자인 패턴
 * [싱글톤 패턴](./2_1_singleton.py)
 * [게으른 초기화](2_2_lazy_initialization.py)
+* [모노스테이트 싱글톤](2_3_monostate_singletone.py)
+* [메타 클래스](2_4_meta_class.py)
+* [싱글톤 패턴 사례 1](2_5_singleton_1.py)
+* [싱글톤 패턴 사례 2](2_6_singleton_2.py)
 
 ## 2. 팩토리 패턴
 * [심플 팩토리 패턴](./3_1_simple_factory.py)

@@ -1,4 +1,6 @@
 # 게으른 초기화
+# 인스턴스가 꼭 필요한 시점에 생성하는 방식
+
 class Singleton:
     __instance = None
 
